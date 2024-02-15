@@ -1,0 +1,7 @@
+roar_carla_manual_controller:
+    ros__parameters:
+      refresh_rate: 0.05
+      debug: false
+      speed_increment: 1.0
+      angle_increment: 0.25
+      frame_id: ego_vehicle
